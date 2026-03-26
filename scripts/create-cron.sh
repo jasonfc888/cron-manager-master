@@ -7,7 +7,7 @@ set -e
 
 # 默认参数
 CHANNEL="feishu"  # TODO: 需要从会话上下文自动获取
-USER_ID="ou_c8f81e4319d585c18cbd2730c48ea4c4"  # TODO: 需要从会话上下文自动获取
+USER_ID="ou_xxxxx"  # TODO: 需要从会话上下文自动获取
 SESSION="isolated"
 ANNOUNCE="--announce"
 DELETE_AFTER_RUN=""
