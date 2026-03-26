@@ -73,7 +73,7 @@ openclaw cron add \
   --message "下午2:30有团队会议" \
   --announce \
   --channel feishu \
-  --to "ou_c8f81e4319d585c18cbd2730c48ea4c4"
+  --to "ou_xxxxx"
 ```
 
 #### 创建周期性任务
@@ -85,7 +85,7 @@ openclaw cron add \
   --message "正在生成今日AI新闻日报..." \
   --announce \
   --channel feishu \
-  --to "ou_c8f81e4319d585c18cbd2730c48ea4c4"
+  --to "ou_xxxxx"
 ```
 
 ## 🔧 开发指南
