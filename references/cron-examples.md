@@ -64,7 +64,7 @@ openclaw cron add \
   --message "下午2:30有团队会议" \
   --announce \
   --channel feishu \
-  --to "ou_c8f81e4319d585c18cbd2730c48ea4c4" \
+  --to "ou_xxxxx" \
   --delete-after-run
 ```
 
@@ -77,7 +77,7 @@ openclaw cron add \
   --message "早上好！新的一天开始了" \
   --announce \
   --channel feishu \
-  --to "ou_c8f81e4319d585c18cbd2730c48ea4c4"
+  --to "ou_xxxxx"
 ```
 
 ## ⚠️ 注意事项
