@@ -5,7 +5,9 @@
 
 ## 📋 项目简介
 
-Cron Manager Master 是一个专为 OpenClaw 设计的定时任务创建和管理技能。它提供了标准化、自动化的定时任务创建流程，并包含智能上下文提取功能，极大地简化了定时任务的配置和管理。
+**Cron Manager Master** 是一个专为 **OpenClaw** 设计的定时任务创建和管理技能。它提供了标准化、自动化的定时任务创建流程，并包含智能上下文提取功能，极大地简化了定时任务的配置和管理。
+
+🔗 已发布至**Clawhub**: https://clawhub.ai/jasonfc888/corn-manager-master
 
 ## ✨ 核心特性
 
